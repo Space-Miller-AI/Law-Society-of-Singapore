@@ -20,8 +20,8 @@ This repository is private and does not include public source code. For further 
 
 Authors
 
-Christophe Marcellus (CTO, Space&Miller LLC)
-Jeremy Space (CEO, Space&Miller LLC)
+Christophe Marcellus (CTO, Space&Miller LLC);
+Jeremy Space (CEO, Space&Miller LLC).
 
 Licensing
 
